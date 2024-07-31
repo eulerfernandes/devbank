@@ -19,18 +19,18 @@ function App() {
             <InputLabel>
               CPF
             </InputLabel>
-            <Input type="Nome" placeholder="Digite sdeu nome" />
+            <Input type="cpf" placeholder="type your cpf" />
           </div>
 
           <div>
             <InputLabel>
               Senha
             </InputLabel>
-            <input type="Senha" placeholder="Type your password" />
+            <Input type="Senha" placeholder="Type your password" />
           </div>
 
-          <Button>Access</Button>
         </ContainerInput>
+        <Button>Access</Button>
 
       </Form>
     </Container>
